@@ -1,0 +1,95 @@
+.overlay-section {
+    background-color: #E7F0FF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.overlay-container1 {
+    margin-left: 135px;
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    position: relative;
+    margin-bottom: 80px;
+}
+
+.overlay-container1 img {
+    width: 90%;
+    max-width: 60%;
+    height: auto;
+}
+
+.overlay-pic1 img {
+    margin-top: 80px;
+    margin-left: 195px;
+}
+
+.overlay-pic2 img {
+    margin-top: -60px;
+    margin-left: 96px;
+}
+
+.overlay-pic3 img {
+    margin-top: -400px;
+    width: 260px;
+    margin-left: 6px;
+}
+
+.overlay-container2 {
+    /* border: 1px solid yellow; */
+    margin-top: 160px;
+    margin-right: 250px;
+    padding: 0px 100px 50px 0px;
+}
+
+.overlay-helping {
+    color: #2AA7FF;
+    font-size: 20px;
+    font-family: Poppins;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: -6px;
+}
+
+.overlay-patient {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.overlay-para {
+    text-align: left;
+    font-size: 17px;
+    font-family: Poppins;
+    font-weight: 400;
+    color: #77829D;
+    margin-bottom: 36px;
+}
+
+.overlay-points img {
+    /* border: 1px solid green; */
+    width: 20px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.overlay-point1 {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.overlay-point2 {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.overlay-point3 {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.overlay-points h5{
+    color: #1B3C74;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 600;
+}

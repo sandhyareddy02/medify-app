@@ -1,0 +1,19 @@
+.list-section {
+    color: black;    
+}
+
+.list-section ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-section li {
+    padding: 0 30px;
+    margin-top: 40px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    align-items: center;
+    line-height: 26px;
+}

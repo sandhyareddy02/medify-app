@@ -1,0 +1,126 @@
+.medical-section {
+    /* border: 2px solid red; */
+}
+
+.medical-header {
+    color: #1B3C74;
+    text-align: center;
+    font-size: 26px;
+    font-family: Poppins;
+    font-weight: 600;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.medical-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 10px;
+}
+
+.doc1 h4 {
+    color: #1B3C74;
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 24px;
+}
+
+.doc1 h6 {
+    color: #2AA7FF;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.doc2 h4 {
+    color: #1B3C74;
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.doc2 h6 {
+    color: #2AA7FF;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.doc3 h4 {
+    color: #1B3C74;
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.doc3 h6 {
+    color: #2AA7FF;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.doc4 h4 {
+    color: #1B3C74;
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 24px;
+}
+
+.doc4 h6 {
+    color: #2AA7FF;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.doc5 h4 {
+    color: #1B3C74;
+    font-size: 22px;
+    font-family: Poppins;
+    font-weight: 400;
+    text-align: right;
+    margin-top: 24px;
+}
+
+.doc5 h6 {
+    color: #2AA7FF;
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.doc-dots {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    align-items: center;
+}
+
+.slide1 {
+    /* border: 1px solid yellow; */
+    margin-right: 5px;
+}
+
+.slide3 {
+    /* border: 1px solid yellow; */
+    margin-left: 5px;
+}

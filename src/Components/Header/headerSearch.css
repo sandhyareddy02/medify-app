@@ -1,0 +1,182 @@
+.header-search-container {
+    margin-left: 100px;
+    margin-right: 40px;
+    border: 1px solid white;
+    margin-top: 50px;
+    height: 500px;
+}
+
+.header-search-box {
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid purple; */
+    margin-left: 120px;
+    margin-right: 60px;
+    margin-top: 70px;
+}
+
+.header-search-input1 {
+    padding: 10px;
+    border: 1px solid #F0F0F0;
+    border-radius: 5px;
+    background-image: url('/public/searchblack.png'); 
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 40px; 
+    color: black;
+}
+
+.header-search-input2 {
+    padding: 10px;
+    border: 1px solid #F0F0F0;
+    border-radius: 5px;
+    background-image: url('/public/searchblack.png'); 
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 40px;
+    color: black;
+}
+
+.header-search-button {
+    background-color: #2AA7FF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: Poppins;
+    padding: 10px 40px;
+    background-image: url('/public/searchwhite.png'); 
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 40px;
+}
+
+.looking {
+    font-size: 24px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #102851;
+    margin-top: 80px;
+}
+
+.header-search-details {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+
+.header-search-doctors {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+}
+
+.header-search-doctors img {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.header-search-doctors h4{
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+.header-search-labs {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+}
+
+.header-search-labs img {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.header-search-labs h4{
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+.header-search-hospitals {
+    box-sizing: border-box; 
+    border: 1px solid #2AA7FF;
+    border-radius: 8px;
+    background-color: #a4d6f9;
+}
+
+.header-search-hospitals img {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.header-search-hospitals h4{
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+.header-search-medicalstore {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+}
+
+.header-search-medicalstore img {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.header-search-medicalstore h4{
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.header-search-ambulance {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+}
+
+.header-search-ambulance img {
+    width: 60px;
+    height: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.header-search-ambulance h4{
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}

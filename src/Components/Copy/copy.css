@@ -1,0 +1,18 @@
+.copy-section {
+    background-color: #1B3C74;
+}
+
+.copy-line {
+    color: White;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-left: 205px;
+    margin-right: 140px;
+    text-align: left;
+    border: 1px solid transparent; 
+    border-top: 1px solid #77829D;
+    opacity: 1;
+    padding: 20px 0px 20px 0px;
+}

@@ -1,0 +1,118 @@
+.foo-section {
+    background-color: #E8F1FF;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.foo-section1 {
+    margin-top: 50px;
+    margin-left: 135px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    position: relative;
+    /* border: 1px solid yellow; */
+}
+
+.foo-img1 {
+    width: 60%;
+    height: auto;
+    margin-left: 230px;
+    margin-top: 60px;
+}
+
+
+.foo-img2 {
+    width: 60%;
+    height: auto;
+    margin-left: 220px;
+    margin-top: -420px;
+}
+
+.foo-img3 {
+    width: 254px;
+    height: 90px;
+    margin-top: -355px;
+    margin-left: 42px;
+}
+
+.foo-img4 {
+    width: 270px;
+    margin-top: -120px;
+    margin-left: 32px;
+}
+
+.foo-section2 {
+    margin-top: 160px;
+    /* border: 1px solid green; */
+    margin-right: 140px;
+    
+}
+
+.foo-header h1{
+    text-align: left;
+}
+
+.foo-arrow {
+    position: relative;
+    margin-left: -120px;
+    margin-top: -100px;
+    width: 100px;
+}
+
+.foo-para {
+    margin-top: -10px;
+    text-align: left;
+    color: #77829D;
+    font-size: 20px;
+    font-family: Poppins;
+}
+
+.foo-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px 0px ;
+    align-items: center;
+    margin-bottom: 8px;
+    margin-left: -100px;
+}
+
+.foo-phone {
+    display: flex;
+    align-items: center;
+}
+
+.prefix {
+    background-color: white;
+    padding: 8px;
+    border-right: 1px solid white;
+}
+
+.foo-phone input{
+    border: none;
+    margin-right: 10px;
+    margin-left: 2px;
+    padding: 8px;
+}
+
+.foo-details button {
+    border-radius: 4px;
+    background-color: #2AA7FF;
+    color: white;
+    padding: 0px 10px;
+    border: none;
+    padding: 8px 20px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.foo-app {
+    display: flex;
+    width: 60%;
+    margin-top: 30px;
+}
+
+.foo-google {
+    margin-right: 40px;
+}

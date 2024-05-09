@@ -1,0 +1,238 @@
+.find-section {
+    border: 1px solid white;
+    background-color: #E8F1FF;
+}
+
+.find-header {
+    color: #1B3C74;
+    font-size: 26px;
+    font-family: Poppins;
+    font-family: 600;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.find-columns {
+    /* border: 1px solid green; */
+    margin-left: 122px;
+    margin-right: 110px;
+    margin-bottom: 36px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.find-column1 {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+    width: 20%;
+    margin: 10px;
+}
+
+.find-column1 img {
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 96px;
+    margin-right: 60px;
+    
+}
+
+.find-column1 h4 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.find-column2 {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+    width: 20%;
+    margin: 10px;
+}
+
+.find-column2 img {
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 96px;
+    margin-right: 60px;
+}
+
+.find-column2 h4 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.find-column3 {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+    width: 20%;
+    margin: 10px;
+}
+
+.find-column3 img {
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 96px;
+    margin-right: 60px;
+}
+
+.find-column3 h4 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.find-column4 {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+    width: 20%;
+    margin: 10px;
+}
+
+.find-column4 img {
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 96px;
+    margin-right: 60px;
+}
+
+.find-column4 h4 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.find-column5 {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+    width: 20%;
+    margin: 10px;
+}
+
+.find-column5 img {
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 96px;
+    margin-right: 60px;
+}
+
+.find-column5 h4 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.find-column6 {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+    width: 20%;
+    margin: 10px;
+}
+
+.find-column6 img {
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 96px;
+    margin-right: 60px;
+}
+
+.find-column6 h4 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.find-column7 {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+    width: 20%;
+    margin: 10px;
+}
+
+.find-column7 img {
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 96px;
+    margin-right: 60px;
+}
+
+.find-column7 h4 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+}
+
+.find-column8 {
+    box-sizing: border-box; 
+    border: 1px solid #FAFBFE;
+    background-color: #f5f6fa;
+    width: 20%;
+    margin: 10px;
+}
+
+.find-column8 img {
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 96px;
+    margin-right: 60px;
+}
+
+.find-column8 h4 {
+    font-size: 18px;
+    font-family: Poppins;
+    font-weight: 400;
+    letter-spacing: 0.4px;
+    margin-bottom: 20px;
+} 
+
+.find-button {
+    background-color: #2AA8FF;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    border: none;
+    font-family: Poppins;
+    font-weight: 400;
+    padding: 10px 30px;
+    text-align: center;
+    margin-bottom: 60px;
+}

@@ -1,0 +1,31 @@
+.photos-section {
+    /* border: 1px solid red; */
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.photos-container {
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.photos-dots {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 620px;
+    margin-right: 620px;
+    width: 14px;
+    margin-bottom: 40px;
+}
+
+.slide1 {
+    /* border: 1px solid yellow; */
+    margin-right: 5px;
+}
+
+.slide3 {
+    /* border: 1px solid yellow; */
+    margin-left: 5px;
+}
